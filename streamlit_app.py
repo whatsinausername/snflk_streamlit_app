@@ -2,6 +2,7 @@ import streamlit
 
 streamlit.title("My test streamlit display")
 
-streamlit.header("Header: Second line")
-streamlit.text("Text line 1 ")
-streamlit.text("Text line 2")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
