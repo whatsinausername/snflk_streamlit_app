@@ -1,6 +1,6 @@
 import streamlit
 
-streamlit.title("My test streamlit display")
+streamlit.title("My test streamlit's display")
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 streamlit.header('🥣 Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
